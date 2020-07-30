@@ -4,7 +4,7 @@
     angular.
         module('professors').
         component('professorsComponent', {
-            templateUrl: 'app/professors/professors.template.html'
+            templateUrl: 'app/components/professors/professors.template.html'
         });
 
 })();

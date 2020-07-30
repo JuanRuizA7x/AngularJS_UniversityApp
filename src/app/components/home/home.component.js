@@ -4,7 +4,7 @@
     angular.
         module('home').
         component('homeComponent', {
-            templateUrl: 'app/home/home.template.html',
+            templateUrl: 'app/components/home/home.template.html',
             controller: function($scope) {
                 $scope.test = 'Hello World!!!';
             }

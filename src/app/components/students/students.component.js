@@ -4,7 +4,7 @@
     angular.
         module('students').
         component('studentsComponent', {
-            templateUrl: 'app/students/students.template.html'
+            templateUrl: 'app/components/students/students.template.html'
         });
 
 })();
