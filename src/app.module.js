@@ -8,8 +8,6 @@
 
             $scope.setActive = function(option) {
 
-                console.log(option);
-                console.log(typeof option);
                 $scope.home = '';
                 $scope.professors = '';
                 $scope.students = '';
